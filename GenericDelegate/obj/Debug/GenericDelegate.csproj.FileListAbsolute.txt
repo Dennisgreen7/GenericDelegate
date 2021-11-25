@@ -1,7 +1,0 @@
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\bin\Debug\GenericDelegate.exe.config
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\bin\Debug\GenericDelegate.exe
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\bin\Debug\GenericDelegate.pdb
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\obj\Debug\GenericDelegate.exe
-C:\Dot.Net\C# Advanced\Shior11\GenericDelegate\obj\Debug\GenericDelegate.pdb
